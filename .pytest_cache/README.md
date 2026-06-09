@@ -34,7 +34,7 @@ docker-compose up db -d
 
 # 4. Crear entorno virtual e instalar dependencias
 python -m venv venv
-venv\Scripts\activate  # Windows
+venv\Scripts\activate
 pip install -r requirements.txt
 
 # 5. Correr el servidor
