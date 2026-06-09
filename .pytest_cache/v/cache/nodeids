@@ -1,0 +1,11 @@
+[
+  "tests/test_urls.py::test_clicks_incrementan",
+  "tests/test_urls.py::test_delete_codigo_inexistente",
+  "tests/test_urls.py::test_delete_url",
+  "tests/test_urls.py::test_list_urls",
+  "tests/test_urls.py::test_redirect",
+  "tests/test_urls.py::test_shorten_url",
+  "tests/test_urls.py::test_shorten_url_invalida",
+  "tests/test_urls.py::test_stats",
+  "tests/test_urls.py::test_stats_codigo_inexistente"
+]
